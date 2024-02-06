@@ -16,7 +16,6 @@
 - 👁️‍🗨️ Ask me about the **current state of AI**, as well as **predictions, ethics, timelines etc.**
 - 🤙 You can reach me at
   - **ping@debs.io** (personal)
-  - **deb@fireflies.ai** (professional)
   - **debloper@gmail.com** (social)
   - Or, just **[Twitter](https://twitter.com/debloper)** mention or DM 
 - ⚡ Fun fact **I enjoy competing versus better players**.
